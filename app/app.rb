@@ -37,6 +37,7 @@ class BookmarkManager < Sinatra::Base
       }.compact
 
     erb :'links/index'
+
   end
 
   run! if app_file == $0
