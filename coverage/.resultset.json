@@ -1,8 +1,28 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/sblausten/Documents/Makers/bookmark-manager-rob/spec/features/add_tag_spec.rb": [
+      "/home/sophie/makersacademy/clones/rob/bookmark-manager/spec/features/add_tag_spec.rb": [
         1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        3,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/sophie/makersacademy/clones/rob/bookmark-manager/spec/features/adds_a_bookmark_spec.rb": [
         1,
         1,
         1,
@@ -18,23 +38,7 @@
         null,
         null
       ],
-      "/Users/sblausten/Documents/Makers/bookmark-manager-rob/spec/features/adds_a_bookmark_spec.rb": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/Users/sblausten/Documents/Makers/bookmark-manager-rob/spec/features/filters_links_by_tag_spec.rb": [
+      "/home/sophie/makersacademy/clones/rob/bookmark-manager/spec/features/filters_links_by_tag_spec.rb": [
         1,
         1,
         1,
@@ -53,7 +57,7 @@
         null,
         null
       ],
-      "/Users/sblausten/Documents/Makers/bookmark-manager-rob/spec/features/viewing_links_spec.rb": [
+      "/home/sophie/makersacademy/clones/rob/bookmark-manager/spec/features/viewing_links_spec.rb": [
         1,
         1,
         1,
@@ -66,6 +70,6 @@
         null
       ]
     },
-    "timestamp": 1493915913
+    "timestamp": 1493984706
   }
 }
