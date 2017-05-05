@@ -29,10 +29,10 @@ class BookmarkManager < Sinatra::Base
     redirect('/links')
   end
 
-  get '/tags/bubbles' do
+  get '/tags/:name' do
     @links = Link.all.map { |link|
         tagged = link.tags.map { |tag|
-          tag.name == 'bubbles' }
+          tag.name == params[:name] }
         link if tagged.include?(true)
       }.compact
 
